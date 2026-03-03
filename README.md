@@ -19,7 +19,7 @@ Python 3.9 or higher.
 
 ## How to Run
 
-Clone the repository, install the requirements and open the main file. It is that simple.
+Clone the repository, install the requirements and run the main file. It is that simple.
 
 ```bash
 git clone <repository-url>  
